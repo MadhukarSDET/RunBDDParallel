@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<extentreports>
+  <configuration>
+    <theme>dark</theme>
+    <documentTitle>Automation Report</documentTitle>
+    <reportName>BDD Extent Report</reportName>
+  </configuration>
+</extentreports>
